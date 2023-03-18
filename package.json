@@ -1,0 +1,20 @@
+{
+  "name": "time-app-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node fetchTime.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.15.3",
+    "@types/node-fetch": "^2.6.2",
+    "dotenv": "^16.0.3",
+    "node-fetch": "^3.3.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  }
+}
